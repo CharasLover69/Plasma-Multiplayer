@@ -1,0 +1,57 @@
+[api-updater (non-obsolete-error-filter)] 12/16/2021 8:06:19 PM : Starting C:/Program Files/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 119.9977ms
+moved types parse time: 108ms
+candidates parse time : 2ms
+C# parse time         : 536ms
+candidates check time : 268ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/16/2021 8:09:20 PM : Starting C:/Program Files/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from C:\Users\Charas Lover\Downloads\Compressed\First-Person-Shooter-Unity--master\Fps Multiplayer\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 212.001ms
+moved types parse time: 111ms
+candidates parse time : 4ms
+C# parse time         : 378ms
+candidates check time : 221ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/17/2021 3:44:49 PM : Starting C:/Program Files/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 480.0031ms
+moved types parse time: 185ms
+candidates parse time : 3ms
+C# parse time         : 823ms
+candidates check time : 547ms
+console write time    : 6ms
+
+[api-updater (non-obsolete-error-filter)] 12/17/2021 3:49:10 PM : Starting C:/Program Files/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87.9985ms
+moved types parse time: 88ms
+candidates parse time : 3ms
+C# parse time         : 298ms
+candidates check time : 232ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/17/2021 3:53:46 PM : Starting C:/Program Files/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 113.0009ms
+moved types parse time: 97ms
+candidates parse time : 2ms
+C# parse time         : 359ms
+candidates check time : 87ms
+console write time    : 0ms
+
